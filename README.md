@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyarj1637&label=Profile%20views&color=0e75b6&style=flat" alt="somyarj1637" /> </p>
 🔭 I’m currently working on Data Science Projects<br>
-🌱 I’m currently learning Data Science<br>💬 Ask me about DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ<br>👯 Here is my resume: <a href="https://drive.google.com/file/d/1cu1H_eYuwlUHD23dl63k2vKKiABzhKYu/view?usp=sharing">SRJ's Resume</a>
+🌱 I’m currently learning Data Science<br>💬 Ask me about DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ<br>👯 Here is my resume: <a href="https://drive.google.com/file/d/1g3DZsZqFVKwnvvoMSLOyNgv3MNDTEPUI/view?usp=sharing">SRJ's Resume</a>
 <!-- - ⚡ Fun fact: ... -->
 
 <h2 align="center">Connect with me:</h2>
