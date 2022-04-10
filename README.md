@@ -3,7 +3,7 @@
 <h3 align="center">Myself <b>Somya Ranjan Jena<b>, a passionate Data Scientist and Web Developer from the Coding world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyarj1637&label=Profile%20views&color=0e75b6&style=flat" alt="somyarj1637" /> </p>
-🔭 I’m currently working on <a href="https://github.com/somyarj1637/Predict-The-Future-of-Zomato-Restaurant">Predict The Future of the Zomato Restaurant</a> and <a href="https://github.com/somyarj1637/Loan-Case-Study-Analysis"> Loan Case Analysis</a><br>
+🔭 I’m currently working on <a href="https://github.com/somyarj1637/Predict-The-Future-of-Zomato-Restaurant">Predict The Future of the Zomato Restaurant</a> <br>
 🌱 I’m currently learning Data Science<br>💬 Ask me about DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ<br>👯 Here is my resume: <a href="https://drive.google.com/file/d/1g3DZsZqFVKwnvvoMSLOyNgv3MNDTEPUI/view?usp=sharing">SRJ's Resume</a>
 <!-- - ⚡ Fun fact: ... -->
 
