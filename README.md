@@ -1,9 +1,9 @@
 
 <h1 align="center">Hola 👋, I'm SRJ</h1>
-<h3 align="center">Myself <b>Somya Ranjan Jena<b>, a passionate Data Scientist and Web Developer from the Coding world</h3>
+<h3 align="center">Myself <b>Somya Ranjan Jena<b>, a passionate Devops Engineer and NLP Enthusiast from the Developer world</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my skillset in the field of Data Science<br>🌱 I’m currently learning Data Science<br>💬 Ask me about DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ
+🔭 I’m currently working on my skillset in the field of Devops and Data Science<br>🌱 I’m currently learning Docker<br>💬 Ask me about Devops, DSA, Web Development, Data Science<br>📫 How to reach me: somyaranjan1637@gmail.com<br>😄 Pronouns: SRJ
 
 
 ## 🌐 Socials:
